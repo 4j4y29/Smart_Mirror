@@ -25,4 +25,4 @@ Code used to develop a smart mirror with AI capabilities.
 ```bash
 bash final.sh
 ```
-Calls Python script in infinite loop to allow user to quit out of the Python script with the "Quit" command. Allows for other users to authenticate to the mirror. 
+Calls `main.py` script in infinite loop to allow user to quit out of the Python script with the "Quit" command. Allows for other users to authenticate to the mirror. 
