@@ -17,7 +17,7 @@ Code used to develop a smart mirror with AI capabilities.
 
 ## Requirements
 - requires an Amazon account
-- requires IAM user with access to Transcribe service
+- requires IAM user with programmatic access to Transcribe service
 - several Python libraries
 - Raspberry Pi 
 
