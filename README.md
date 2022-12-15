@@ -2,11 +2,11 @@
 Code used to develop a smart mirror with AI capabilities.
 
 ## Capabilities
-⭐ Facial recognition
-⭐ Speech-to-text 
-⭐ Text processing
-⭐ Text-to-speech 
-⭐ Task performance
+⭐ Facial recognition<br>
+⭐ Speech-to-text<br>
+⭐ Text processing<br>
+⭐ Text-to-speech<br>
+⭐ Task performance<br>
 
 
 ## Libraries & Python Script
